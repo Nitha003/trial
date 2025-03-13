@@ -5,7 +5,7 @@ function Cases() {
   return (
     <>
       <header>
-        <h1>Manage Cases</h1>
+        <h1>Manage </h1>
         <nav>
           <ul>
             <li>
